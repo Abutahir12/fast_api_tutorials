@@ -6,5 +6,5 @@
     <option name="pathToExecutable" value="C:\Users\91805\AppData\Roaming\Python\Python310\Scripts\black.exe" />
     <option name="sdkUUID" value="93653944-8ed5-45e7-aa4f-326120deeb8c" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (fast_api_tutorials)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
 </project>
